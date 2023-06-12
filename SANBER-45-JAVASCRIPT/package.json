@@ -1,0 +1,15 @@
+{
+  "name": "sanber-45-javascript",
+  "version": "1.0.0",
+  "description": "belajar javascript sanber batch 45",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "permana",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
